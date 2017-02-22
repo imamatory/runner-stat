@@ -1,4 +1,4 @@
-# runner-task
+# runner-stat
 Finding the fastest stretch of track
 
 Count minimal time takes to run required distance
